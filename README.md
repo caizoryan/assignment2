@@ -2,6 +2,8 @@
 
 Still working on it but here are the live links.
 
+Index/Ethos: https://pascalwager.github.io/Landlords/
+
 Landing page: https://6407a3719903cc009439138a--lucky-otter-0c5def.netlify.app/
 
 Sign up page: https://main--sensational-moonbeam-935828.netlify.app/
