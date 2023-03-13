@@ -1,0 +1,6 @@
+[submodule "arena-webpage-editor"]
+	path = arena-webpage-editor
+	url = https://github.com/caizoryan/arena-webpage-editor
+[submodule "interface-sketches"]
+	path = interface-sketches
+	url = https://github.com/caizoryan/interface-sketches
